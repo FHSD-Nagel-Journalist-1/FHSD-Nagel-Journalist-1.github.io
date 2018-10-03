@@ -16,6 +16,11 @@
       </div>
     </div>
 
+     </div>
+    {% if page.comments %}
     {% include analytics.html %}
+    {% include comments.html %}
+    {% endif %}
+  </body>
   </body>
 </html>
