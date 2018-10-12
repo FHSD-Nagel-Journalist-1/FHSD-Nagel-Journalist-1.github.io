@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You're up and running!
-comments: True
+title: Puppy Power!
+comments: blah blah blah
 tags:
   - test
   - tags
@@ -9,6 +9,6 @@ tags:
 
 Test Post
 
-![_config.yml]({{ site.baseurl }}/images/Kermit_the_Frog.png)
+![_config.yml]({{ site.baseurl }}/images/images.png)
 
-comments: True
+comments: AaBbCcDdEeFfGg
