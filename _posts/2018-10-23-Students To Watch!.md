@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A student to watch!
+title: A Student To Watch!
 comments: True
 tags:
   - People To watch
@@ -20,5 +20,5 @@ Good going! These great students have been awesome during this first month of sc
 
 ![_config.yml]({{ site.baseurl }}/images/DSC_0003.jpg)
 
-Maria Taylor Above
+Maria Taylor, Seen Above
 
