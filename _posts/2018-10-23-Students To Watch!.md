@@ -7,6 +7,8 @@ tags:
   - Jade O'Brien
 ---
 
+### By Jade O'Brien
+
   This first month of school has been great, but some special students have just blown it out of the water. Here are some awesome students worth an award!
 Sara Knake, Grace Wasco, Emma Moulas and Emily McLachlan from House 4A have been nominated for doing wonderfully in the recycling AFT. They have been contacting Rumpke, and Home Depot for ideas  and the pricing to get all of the classrooms their own Maria Taylor (Pictured above)
 recycling bins. The girls have done this via calling and emailing. Great job! In-House 2B, Grace Callahan made a personal record in the cross county, dropping about 5 minutes from her previous best. She went from 27:38 minutes to an awesome 22:12 minutes in the standard 5km race. Awesome!
