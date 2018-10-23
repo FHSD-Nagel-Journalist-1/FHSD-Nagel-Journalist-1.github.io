@@ -4,8 +4,7 @@ title: Nagel School Events
 comments: True
 tags:
   - Sports
-  - News
-  -Laney Marcum
+  - Laney Marcum
 ---
 
 ### By Laney Marcum
