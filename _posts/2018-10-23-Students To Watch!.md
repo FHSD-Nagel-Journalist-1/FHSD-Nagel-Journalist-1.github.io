@@ -3,7 +3,7 @@ layout: post
 title: A Student To Watch!
 comments: True
 tags:
-  - People To watch
+  - People To Watch
   - Jade O'Brien
 ---
 
