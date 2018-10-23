@@ -21,4 +21,3 @@ Good going! These great students have been awesome during this first month of sc
 ![_config.yml]({{ site.baseurl }}/images/DSC_0003.jpg)
 
 ### Maria Taylor, Seen Above
-
