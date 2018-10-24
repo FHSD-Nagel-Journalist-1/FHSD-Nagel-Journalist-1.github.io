@@ -6,7 +6,7 @@
 name: The Official Nagel Website
 
 # Short bio or description (displayed in the header)
-description: Nagel Journalism Club, 2017-2018
+description: A Middle School In Ohio
 
 #
 # Flags below are optional
@@ -28,9 +28,11 @@ navigation:
     url: /archive
   - name: Tags
     url: /tags
+  - name: Theme
+    url: https://github.com/FHSD-Nagel-Journalist-1/FHSD-Nagel-Journalist-1.github.io
 
 # Pagination
-paginate: 20
+paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -39,6 +41,7 @@ footer-links:
   email:
   facebook:
   flickr:
+  github: AWEEKJ/kiko-now
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
