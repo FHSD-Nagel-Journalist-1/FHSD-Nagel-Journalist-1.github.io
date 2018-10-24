@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Student To Watch!
+title: Students To Watch!
 comments: True
 tags:
   - People To Watch
