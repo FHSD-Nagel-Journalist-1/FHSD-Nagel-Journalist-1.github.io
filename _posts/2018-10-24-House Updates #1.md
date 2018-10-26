@@ -24,6 +24,6 @@ tags:
 
 
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot 2018-10-24 at 1.01.40 PM.png)
-
+![_config.yml]({{ site.baseurl }}/images/DSC_0001.JPG)
+![_config.yml]({{ site.baseurl }}/images/DSC_0002.JPG)
 ### Nagel Students Hard At Work!
