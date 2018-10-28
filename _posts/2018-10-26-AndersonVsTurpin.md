@@ -6,6 +6,7 @@ tags:
   - Mitchell Tamkus
   - Sports
   - Caleb Calez
+  - Community News
 ---
 
 
