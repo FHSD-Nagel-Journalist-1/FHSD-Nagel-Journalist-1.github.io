@@ -10,7 +10,7 @@ tags:
 ### By: Laney Marcum
 
 
-Halloween is coming up! Some of the most popular costumes in 2018 are classics, but there are also some new favorites. Some popular classic costumes include: clowns, Star Wars characters, and superheroes. A new one however, which is the most popular costume in 43 states, is fortnite characters. According to Thrillist Entertainment, the top 48 costumes bought for halloween in America are:
+Halloween is coming up! Some of the most popular costumes in 2018 are classics, but there are also some new favorites. Some popular classic costumes include: clowns, Star Wars characters, and superheroes. A new one however, which is the most popular costume in 43 states, is fortnite characters. According to Thrillist Entertainment, the top 33 costumes bought for halloween in America are:
 
 
 1. Fortnite
