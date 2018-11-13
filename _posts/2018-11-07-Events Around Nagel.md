@@ -23,4 +23,4 @@ Hey! There are so many smaller events around Nagel happening all of the time. Iâ
 	In band, there have been many concerts recently and in the near future. On October 11th, the 8th grade band performed at the Silver football game. They also performed at the FHIMA Band Expo Contest on October 20th. In the future, the 7th Grade band will be performing at the Veterans Day Ceremony on November 12th. Finally this year, all of the Nagel MS band will be playing a Holiday Spectacular concert on December 18th.
 	Those are just some of the awesome events happening in our Nagel community! Stay tuned for some other great articles on Nagelâ€™s blog.
 
-comments: True
+
